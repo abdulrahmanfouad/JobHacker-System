@@ -7,5 +7,6 @@ public class ExtremelyBasic {
         int secondNumber = scanner.nextInt();
         int sum = firstNumber+secondNumber;
         System.out.println("X = "+sum);
+        scanner.close();
     }
 }
