@@ -29,5 +29,6 @@ public class LineInArray{
                 System.out.printf("%.1f",average);
                 System.out.println();
         }
+        scanner.close();
     }
 }
