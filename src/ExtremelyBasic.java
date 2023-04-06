@@ -1,5 +1,4 @@
-import java.io.IOException;
-import java.util.*;
+import java.util.Scanner;
 
 public class ExtremelyBasic {
     public static void main(String[] args) {
